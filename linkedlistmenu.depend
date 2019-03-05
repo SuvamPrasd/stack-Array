@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550568082 source:c:\users\suvam\documents\study prog\c\c programs\linkedlistmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+
