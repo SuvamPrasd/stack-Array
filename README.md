@@ -1,2 +1,2 @@
-# stack-Array
-array implementation method
+# Stack-Array
+Stack creation through array implementation method
